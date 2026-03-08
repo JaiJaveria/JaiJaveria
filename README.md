@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JaiJaveria
+- 👋 Hi, I’m Jai, you can also call me Jay or J!
+- 🌱 I am an aviation Enthusiast and very recently got interested in building in open source. Currently I am mixing the best of both worlds and working on open source aviation projects
 - 👀 I’m interested in learning new things! Connect with me to give any recommendations that you may have!!
-- 🌱 I’m currently learning Machine Learning with a focus on Natural Language Processing and Transfer Learning. I also have interests in databases and systems.
 ### Connect with me on  [<img alt="codeSTACKr | LinkedIn" width="24px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"/>][LinkedIn]
 <!-- <br /> -->
 
